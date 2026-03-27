@@ -23,7 +23,10 @@ A high-severity ransomware alert was triggered when endpoint `172.16.17.88` down
 
 ---
 
-## 📊 Attack Chain Analysis
+
+## 📊 Attack Chain Analysis 
+
+![processes executed](images/Process_executed_01.png)
 
 ```
 1. File Download
@@ -75,7 +78,12 @@ A high-severity ransomware alert was triggered when endpoint `172.16.17.88` down
 
 ![VirusTotal Hash Lookup](images/soc145_virustotal_01.png)
 
+![VirusTotal Hash Lookup](images/soc145_virustotal_02.png)
+
 ![Hybrid Analysis Result](images/soc145_hybrid_analysis_01.png)
+
+![Hybrid Analysis Result](images/soc145_hybrid_analysis_02.png)
+
 
 | Hash | Value |
 |------|-------|
@@ -93,7 +101,13 @@ All three platforms confirmed the file as **malicious ransomware**. The URL from
 
 ![ANY.RUN File Activity](images/soc145_anyrun_files_01.png)
 
+![ANY.RUN File Activity](images/soc145_anyrun_files_02.png)
+
+
+
 ![ANY.RUN Ransom Note](images/soc145_anyrun_ransom_note_01.png)
+
+![ANY.RUN Ransom Note](images/soc145_anyrun_ransom_note_02.png)
 
 **Key Sandbox Behaviors:**
 
@@ -260,6 +274,7 @@ Persistence:    C:\Users\admin\AppData\Roaming\Microsoft\Windows\ab.bin.exe
 ---
 
 ## 📖 Case Documentation
+![Artifacts](images/Artifacts_01.png)
 
 **Platform:** LetsDefend  
 **Case Number:** SOC145  
