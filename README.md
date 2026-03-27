@@ -1,5 +1,5 @@
 # SOC145 - Ransomware Detected
-![Let's Defend SOC145](images/SOC_145.jpg)
+![Let's Defend SOC145](images/SOC_145.png)
 **Malware Analysis & Endpoint Investigation | LetsDefend SOC Simulator**
 
 [![Platform](https://img.shields.io/badge/Platform-LetsDefend-orange?style=for-the-badge)](https://app.letsdefend.io/)
