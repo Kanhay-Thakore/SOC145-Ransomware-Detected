@@ -284,7 +284,7 @@ Persistence:    C:\Users\admin\AppData\Roaming\Microsoft\Windows\ab.bin.exe
 ---
 
 ## 📖 Case Documentation
-![Artifacts](images/Artifacts_01.png)
+![Artifacts](images/Artifacts_Ransomware_01.png)
 
 **Platform:** LetsDefend  
 **Case Number:** SOC145  
